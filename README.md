@@ -67,7 +67,7 @@ belief: "an agent without an eval is just a demo"
 
 <img src="https://streak-stats.demolab.com?user=Shauryaroks&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://ghchart.rshah.org/7aa2f7/Shauryaroks" alt="contributions" width="100%" />
+<img src="https://raw.githubusercontent.com/Shauryaroks/Shauryaroks/output/snake-dark.svg" alt="contribution graph" width="100%" />
 
 ---
 
