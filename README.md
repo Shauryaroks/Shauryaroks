@@ -33,7 +33,7 @@ belief: "an agent without an eval is just a demo"
 |---|---|
 | [**free-code**](https://github.com/Shauryaroks/free-code) | Runs coding-agent CLIs in parallel across git worktrees, routing each step to the cheapest agent that passes its test gate |
 | [**occultism**](https://occultism.shauryaroks.me) | Agent Builder — compose, run, and inspect agentic workflows |
-| **WarRoom** | Real-time case competition platform for 32–40 teams: LLM-evaluated strategy submissions with human-in-the-loop validation, plus a live market trading stock in each other's companies |
+| [**WarRoom**](https://github.com/Shauryaroks/WarRoom) | Real-time case competition platform for 32–40 teams: LLM-evaluated strategy submissions with human-in-the-loop validation, plus a live market trading stock in each other's companies |
 | [**perplexed**](https://github.com/Shauryaroks/perplexed) | Research/answer engine experiments |
 | [**inference-engine**](https://github.com/FloatingComet62/inference-engine) | CPU-based inference engine optimized for TinyLlama-1.1B *(with @FloatingComet62)* |
 
