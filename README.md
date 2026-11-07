@@ -32,11 +32,21 @@ belief: "an agent without an eval is just a demo"
 | project | what it does |
 |---|---|
 | [**free-code**](https://github.com/Shauryaroks/free-code) | Runs coding-agent CLIs in parallel across git worktrees, routing each step to the cheapest agent that passes its test gate |
+| [**occultism**](https://occultism.shauryaroks.me) | Agent Builder — compose, run, and inspect agentic workflows |
+| **WarRoom** | Real-time case competition platform for 32–40 teams: LLM-evaluated strategy submissions with human-in-the-loop validation, plus a live market trading stock in each other's companies |
 | [**perplexed**](https://github.com/Shauryaroks/perplexed) | Research/answer engine experiments |
-| [**metaflow (fork)**](https://github.com/Shauryaroks/metaflow) | GSoC R&D: Jupyter-native Metaflow workflows |
-| [**NeuralNetworks**](https://github.com/Shauryaroks/NeuralNetworks) | Neural nets from first principles |
-| [**telemetry-ackermann**](https://github.com/Shauryaroks/telemetry-ackermann) | OORJA telemetry analysis + Ackermann steering simulator |
-| [**city-optimization-program**](https://github.com/Shauryaroks/city-optimization-program) | Macrogrid optimization for distributed infrastructure |
+| [**inference-engine**](https://github.com/FloatingComet62/inference-engine) | CPU-based inference engine optimized for TinyLlama-1.1B *(with @FloatingComet62)* |
+
+### `> git log --author=me --elsewhere`
+
+| repo | contribution |
+|---|---|
+| [openfolie/simulation](https://github.com/openfolie/simulation) | Open-world RL environment |
+| **occult-voice-agent** *(private)* | Voice agent behind the occultism stack |
+| **TechnitosAI/CompanyBrain** *(private)* | Company knowledge brain; fixed folder/file format inconsistencies |
+| [devyangggg/city-optimization-program](https://github.com/devyangggg/city-optimization-program) | Built the first agent pipeline for macrogrid infrastructure optimization |
+| [devyangggg/poseidon](https://github.com/devyangggg/poseidon) | Initial backend |
+| [EV cost prediction](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach) | RandomizedSearchCV hyperparameter tuning for XGBoost |
 
 ### `> curl live-deployments`
 
@@ -55,10 +65,9 @@ belief: "an agent without an eval is just a demo"
 
 ### `> stats`
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shauryaroks&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryaroks&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Shauryaroks&theme=tokyonight&hide_border=true" alt="streak" />
+
+<img src="https://ghchart.rshah.org/7aa2f7/Shauryaroks" alt="contributions" width="100%" />
 
 ---
 
