@@ -117,4 +117,4 @@ belief: "an agent without an eval is just a demo"
 
 ---
 
-<p align="center"><sub>open to research collabs on agents, evals, and voice — DMs open.</sub></p>
+<p align="center"><sub>open to research collabs on agents, evals, and voice</sub><br/><a href="mailto:shauryagarg76@gmail.com"><img src="https://img.shields.io/badge/shauryagarg76@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a></p>
