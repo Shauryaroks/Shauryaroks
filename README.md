@@ -117,6 +117,6 @@ belief: "an agent without an eval is just a demo"
 
 ---
 
-<p align="center"><sub>open to research collabs on agents, evals, and voice agents</sub><br/><a href="mailto:shauryagarg76@gmail.com"><img src="https://img.shields.io/badge/shauryagarg76@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+<p align="center"><sub></sub><br/><a href="mailto:shauryagarg76@gmail.com"><img src="https://img.shields.io/badge/shauryagarg76@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://www.linkedin.com/in/shaurya-garg-801615313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/shauryagarg76"><img src="https://img.shields.io/badge/@shauryagarg76-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a></p>
