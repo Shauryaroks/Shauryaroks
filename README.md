@@ -15,6 +15,7 @@ focus:
   - agentic workflows: planners, executors, verifiers, test-gated loops
   - voice agents: streaming STT → LLM → TTS, barge-in, sub-second turn-taking
   - infra for agents: worktrees, sandboxes, cost-aware model routing
+daily_driver: Arch Linux (btw) — tiling WM, dotfiles, terminal-first, tinkered to the kernel
 currently: making multi-agent pipelines cheaper without making them dumber
 belief: "an agent without an eval is just a demo"
 ```
@@ -25,6 +26,7 @@ belief: "an agent without an eval is just a demo"
 - **Model routing** — send each step to the cheapest model that clears its test gate
 - **Voice-native agents** — latency budgets, interruption handling, turn detection, tool calls mid-conversation
 - **Evals & reliability** — trajectory-level evals, regression suites for prompts, LLM-as-judge done carefully
+- **Linux, all the way down** — Arch daily driver, self-hosted homelab on Tailscale + Cloudflare Tunnels, if it can run from a terminal it will
 - **Memory & context** — long-horizon tasks, context compression, retrieval that actually helps
 
 ### `> ls ~/projects --featured`
@@ -55,6 +57,11 @@ belief: "an agent without an eval is just a demo"
 - 🌐 [**shauryaroks.me**](https://www.shauryaroks.me) — home base / portfolio
 
 ### `> cat stack.txt`
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
